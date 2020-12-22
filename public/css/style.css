@@ -163,7 +163,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url('/AmayasTrees/img/backgroundTree.jpeg') top center no-repeat;
+	background: url('/AmayasTrees/public/img/backgroundTree.jpeg') top center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -498,7 +498,7 @@ color: #777;
 /* Footer Section*/
 #footer {
 	background: #333;
-	padding: 30px 0 20px;
+	padding-top: 20px;
 }
 #footer h3 {
 	color: #1e7a46;
